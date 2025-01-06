@@ -12,7 +12,7 @@ git clone https://github.com/AirdropFamilyIDN-V2-0/airpump.git
 cd airpump
 ```
 ```
-pip install requests eth-account colorama
+pip install requests eth-account colorama fake_useragent
 ```
 ```
 python bot.py
